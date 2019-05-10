@@ -1,8 +1,8 @@
 # Superior-Tower-Defence
-项目主页：https://fragrant111.github.io/Superior-Tower-Defence.com/ **主页维护中，暂时无法访问**
+项目主页：https://fragrant111.github.io/Superior-Tower-Defence.com/
 
 下载打包完成的项目：
-[链接1](https://hukeqing.github.io/Keqing.hu.com/project-Repositories/Superior%20Tower%20Defence.rar)
+[链接1](https://hukeqing.github.io/Keqing.hu.com/project-Repositories/Superior%20Tower%20Defence.rar?_blank)
 [链接2]()**(链接2维护中，暂时无法使用)**
 
 *本项目使用unity引擎，版本为2018.3.5f1*
