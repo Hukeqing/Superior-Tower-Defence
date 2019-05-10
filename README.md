@@ -1,8 +1,13 @@
 # Superior-Tower-Defence
+项目主页：https://fragrant111.github.io/Superior-Tower-Defence.com/ **主页维护中，暂时无法访问**
+
+下载打包完成的项目：
+[链接1](https://hukeqing.github.io/Keqing.hu.com/project-Repositories/Superior%20Tower%20Defence.rar)
+[链接2]()**(链接2维护中，暂时无法使用)**
 
 *本项目使用unity引擎，版本为2018.3.5f1*
 
-## Copyleft (Ɔ) 2019 Mauve 版权没有， 翻版不究。 但请协助改进本作品。 遵循[CC BY-NC-SA](https://creativecommons.org/licenses/by-nc-sa/3.0/deed.zh)授权使用。
+## Copyleft (Ɔ) 2019.Mauve 版权没有， 翻版不究。 但请协助改进本作品。 遵循[CC BY-NC-SA知识协议](https://creativecommons.org/licenses/by-nc-sa/3.0/deed.zh)授权使用。
 
 ## 开源协议
 > We had to be rescued from our folly by a rebel alliance of obsessive geeks and creative misfits—who then proceeded to show us that professionalism and dedication really meant what we had been doing before we succumbed to the mundane persuasions of "sound business practices".
@@ -45,9 +50,9 @@ Superior-Tower-Defence所有的文件均采用[CC BY-NC-SA 3.0知识协议](http
 
 ## 项目作者
 
-### **创造者**
+### **创作团队**
 
-Mauve
+[Mauve](https://hukeqing.github.io/Keqing.hu.com/index.html)
 
 七分甜不加冰
 
@@ -56,3 +61,102 @@ Mauve
 热络
 
 齐喑
+
+## 游戏介绍
+
+### 游戏简介
+
+   类型  | Superior-Tower-Defence
+:-------:|:---------------------:|
+中文名   | 超级塔防 |
+原版名称 | Superior-Tower-Defence |
+游戏类型 | 休闲娱乐、塔防 |
+游戏平台 | PC |
+系统要求 | WindowsXP及以上版本，可使用源码自行编译生成Linux、MacOS版本 |
+地区     | 中国 |
+开发者   | Mauve、七分甜不加冰 |
+发行日期 | 2019年5月10日 |
+玩家人数 | 单人 |
+游戏画面 | 3D |
+游戏引擎 | Unity3D |
+游戏大小 | 约120MB |
+
+### 游戏玩法
+
+通过在中心建筑物附近建立防御来保护中心建筑物不被怪物攻击
+
+敌人可以来自地图的四个角落，在第10波开始会在地图上随机地点刷出随机怪物
+
+游戏内虚拟货币主要来自于使用资源建筑物生产得到，资源生产器会随着时间的增长而生产减慢，可以通过拆除重建来再次生产
+
+游戏内所有的塔必须建立在绿色地块之上，绿色地块可以通过建造补给站来扩张
+
+### 游戏操作
+
+通过键盘的wasd可以控制视角移动，鼠标滚轮可以调节视角高度
+
+点击空白的绿色地面来建造建筑物，点击建筑物可以拆除
+
+### 游戏目的
+
+抵御住所有的敌人的进攻，直到在最后一波的进攻中存活并且在某个时刻地图上不存在敌人
+
+### 更新日志
+（以下内容中，版本号小于 1.0.0 的均为测试版本内更新内容）
+#### 更新内容：（V0.2.0）
+
+    增加游戏内调整游戏分辨率、全屏状态、帧频等功能
+    优化部分UI
+    更换了彩蛋的音频
+
+#### 更新内容：（V0.2.1）
+
+    增加游戏提示条
+    更换游戏鼠标指针
+    修改Setting设置
+    修改在游戏中按下Esc键后的反应
+
+#### 更新内容：（V0.2.2）
+
+    更换和新增了多种音效
+    更换了敌人的攻击特效
+    新增打赏功能
+
+#### 更新内容：（V0.3.0）
+
+    全面更新UI
+    新增城墙、冰冻塔
+
+#### 更新内容：（V0.3.1）
+
+    性能全面优化
+    可以在敌人出现前在设置里调节游戏难度
+
+#### 更新内容：（V0.4.0）
+
+    增加语音助手
+
+#### 更新内容：（V0.4.1）
+
+    更新语音助手的网络性能
+    全面更新字体
+
+#### 更新内容：（V0.5.0）
+
+    全面更新特效
+    增加随机出现的敌人
+
+#### 更新内容：（V0.6.0）
+
+    增加了两种额外武器
+    资源塔增加衰减生产
+
+#### 更新内容：（V0.6.1）
+
+    增加了新的额外武器——治疗法阵
+    优化额外武器的AI，使其能保证瞄准地图上存在的敌人或者防御塔
+
+#### 更新内容：（V1.0.0）
+
+    修复部分bug
+    正式发布游戏
