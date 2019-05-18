@@ -7,10 +7,7 @@ public class CureControl : MonoBehaviour
     public float DamageRange = 5;
     public int CureDamage = 20;
 
-    private void Start()
-    {
-        Expl();
-    }
+    private void Start() => Expl();
     private void Expl()
     {
         Collider[] hitColliders = Physics.OverlapSphere(transform.position, DamageRange, 1 << 12);

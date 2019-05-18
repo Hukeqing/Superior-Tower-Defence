@@ -6,10 +6,7 @@ public class IceControl : MonoBehaviour
 {
     public float DamageRange;
 
-    private void Start()
-    {
-        Expl();
-    }
+    private void Start() => Expl();
     private void Expl()
     {
         Collider[] hitColliders = Physics.OverlapSphere(transform.position, DamageRange, 1 << 13);

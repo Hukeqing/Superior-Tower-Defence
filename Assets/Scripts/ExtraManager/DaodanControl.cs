@@ -11,10 +11,7 @@ public class DaodanControl : MonoBehaviour
 
     private bool Explore;
 
-    private void Start()
-    {
-        Explore = false;
-    }
+    private void Start() => Explore = false;
 
     private void Update()
     {

@@ -7,10 +7,7 @@ public class RandomEnemy : MonoBehaviour
     private GameObject[] EnemyList;
     public void AddGameObject(GameObject[] InputEnemy) => EnemyList = InputEnemy;
 
-    private void Start()
-    {
-        StartCoroutine(EnemyBorth());
-    }
+    private void Start() => StartCoroutine(EnemyBorth());
 
     private IEnumerator EnemyBorth()
     {
