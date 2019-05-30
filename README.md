@@ -8,7 +8,7 @@
 
 *本项目使用unity引擎，版本为2018.3.5f1*
 
-## Copyleft (Ɔ) 2019.Mauve 版权没有，翻版不究。 但请协助改进本作品。 遵循[CC BY-NC-SA知识协议](https://creativecommons.org/licenses/by-nc-sa/3.0/deed.zh)授权使用。
+## Copyleft (Ɔ) 2019.Mauve 版权没有，翻版不究。 但请协助改进本作品。 遵循[CC BY-NC-SA知识协议](http://creativecommons.org/licenses/by-nc-sa/4.0/)授权使用。
 
 ## 开源协议
 > We had to be rescued from our folly by a rebel alliance of obsessive geeks and creative misfits—who then proceeded to show us that professionalism and dedication really meant what we had been doing before we succumbed to the mundane persuasions of "sound business practices".
@@ -19,7 +19,7 @@
 Superior-Tower-Defence游戏源码全部公开，包括所有的模型、音频、贴图、脚本、动画、场景以及其他导入的CC授权的作品
 
 ### 开源授权(CC BY-NC-SA)
-Superior-Tower-Defence所有的文件均采用[CC BY-NC-SA 3.0知识协议](https://creativecommons.org/licenses/by-nc-sa/3.0/deed.zh)开源授权协议
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="知识共享许可协议" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />本作品采用<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">知识共享署名-非商业性使用-相同方式共享 4.0 国际许可协议</a>进行许可。
 
 **协议摘要如下：**
 
