@@ -2,7 +2,7 @@
 项目主页：https://fragrant111.github.io/Superior-Tower-Defence.com/
 
 下载打包完成的项目：
-<a href="https://github.com/Hukeqing/Superior-Tower-Defence/releases/download/V1.0.0/Superior.Tower.Defence.rar" target="_blank">
+<a href="https://github.com/Hukeqing/Superior-Tower-Defence/releases/download/V1.0.1/Superior.Tower.Defence.rar" target="_blank">
     下载链接
 </a>
 
