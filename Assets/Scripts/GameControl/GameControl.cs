@@ -61,7 +61,7 @@ public class GameControl : MonoBehaviour
             for (int i = 0; i < resolutions.Length; i++)
             {
                 ScreenResolutions.AddOptions(new List<string> { resolutions[i].width.ToString() + "×" + resolutions[i].height.ToString() });
-                
+
                 if (Screen.currentResolution.width == resolutions[i].width && Screen.currentResolution.height == resolutions[i].height)
                 {
                     ScreenResolutions.value = i;
@@ -87,6 +87,22 @@ public class GameControl : MonoBehaviour
     {
         Time.timeScale = 1;
         SceneManager.LoadScene(x);
+    }
+    public GameObject HelpCanvas;
+    public GameObject MenuCanvas;
+    public void Help()
+    {
+        if (HelpCanvas.activeSelf)
+        {
+            HelpCanvas.SetActive(false);
+            MenuCanvas.SetActive(true);
+            HelpCanvas.GetComponent<CanvasScaler>().scaleFactor = 0;
+        }
+        else
+        {
+            HelpCanvas.SetActive(true);
+            MenuCanvas.SetActive(false);
+        }
     }
     public void SetSpeed(float x)
     {
@@ -125,7 +141,7 @@ public class GameControl : MonoBehaviour
                 setting(false);
                 SaveSetting();
             }
-            else if(RewardImage.activeSelf)
+            else if (RewardImage.activeSelf)
             {
                 SetReward(false);
             }

@@ -9,6 +9,7 @@ public class ScrollControl : MonoBehaviour
     public Text T;
     public Scrollbar Sb;
 
+    public GameControl Main;
     private const int V = 35;
     
     public void SetString(string s)
@@ -29,6 +30,6 @@ public class ScrollControl : MonoBehaviour
     public void Back()
     {
         Time.timeScale = 1;
-        SceneManager.LoadScene(0);
+        Main.Help();
     }
 }

@@ -56335,7 +56335,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "mauve\n\nmauve\n\u4E03\u5206\u751C\u4E0D\u52A0\u51B0\nmauve\n\u4E03\u5206\u751C\u4E0D\u52A0\u51B0\n\u4E03\u5206\u751C\u4E0D\u52A0\u51B0\n\n\u70ED\u7EDC\n\u9F50\u8C19\nwww.aigei.com\nunity.com\nmusic.163.com\niconfont.cn\n\u767E\u5EA6AI\u5F00\u653E\u5E73\u53F0"
+  m_Text: "mauve\n\nmauve\nmauve\nFragrant\nFragrant\nFragrant\n\n\u70ED\u7EDC\n\u9F50\u8C19\nwww.aigei.com\nunity.com\nmusic.163.com\niconfont.cn\nai.baidu.com"
 --- !u!222 &1393961050
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -63753,7 +63753,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "\u603B\u7B56\u5212\uFF1A\n\n\u7A0B\u5E8F\u7F16\u5199\uFF1A\n\n\u7F8E\u5DE5\u5EFA\u6A21\uFF1A\n\u6E38\u620F\u6D4B\u8BD5\uFF1A\n\u6E38\u620F\u5E73\u8861\uFF1A\n\n\u7279\u522B\u9E23\u8C22\uFF1A\n\nCC\u7248\u6743\u7F72\u540D\uFF1A\n\n\n\n\u8BED\u97F3\u5408\u6210API\u6765\u6E90\uFF1A"
+  m_Text: "\u603B\u7B56\u5212\uFF1A\n\n\u7A0B\u5E8F\u7F16\u5199\uFF1A\n\u7F8E\u5DE5\u5EFA\u6A21\uFF1A\n\u6E38\u620F\u6D4B\u8BD5\uFF1A\n\u6E38\u620F\u5E73\u8861\uFF1A\n\u524D\u7AEF\u5236\u4F5C\uFF1A\n\n\u7279\u522B\u9E23\u8C22\uFF1A\n\nCC\u7248\u6743\u7F72\u540D\uFF1A\n\n\n\n\u8BED\u97F3\u5408\u6210API\u6E90\uFF1A"
 --- !u!222 &1561314485
 CanvasRenderer:
   m_ObjectHideFlags: 0
