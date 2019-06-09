@@ -23854,7 +23854,7 @@ MonoBehaviour:
   AttackWaitTime: 5
   AttackRange: 14
   AttackPoint: {fileID: 2619774865842518290}
-  Damage: 12
+  Damage: 1000
 --- !u!95 &9085904374908826707
 Animator:
   serializedVersion: 3

@@ -61342,7 +61342,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &1514237854
 RectTransform:
   m_ObjectHideFlags: 0
@@ -65894,6 +65894,8 @@ MonoBehaviour:
   GameHard: {fileID: 447549693}
   HardMode: {fileID: 708195568}
   GameHardFront: {fileID: 527553884}
+  HelpCanvas: {fileID: 0}
+  MenuCanvas: {fileID: 0}
 --- !u!114 &1595975262
 MonoBehaviour:
   m_ObjectHideFlags: 0

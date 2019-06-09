@@ -70,7 +70,7 @@ public class EnemyBornControl : MonoBehaviour
             text.text = "第" + curRound +"/" + Wave.Length + "波";
             SC.SiriSound("第" + curRound + "波");
             AT.SetTrigger("Round");
-            if (curRound == 10)
+            if (curRound == 3)
             {
                 CorForRandomEnemy = StartCoroutine(BornRandomEnemy());
             }

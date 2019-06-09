@@ -23,7 +23,7 @@ public class CameraControl : MonoBehaviour
 
     private void Start()
     {
-        money = 200;
+        money = 100000000;
         MoneyText.text = "$" + money;
         isEnd = false;
         AS = GetComponent<AudioSource>();
@@ -75,7 +75,7 @@ public class CameraControl : MonoBehaviour
                 if (isCollider)
                 {
                     curPoint = hit.collider.GetComponent<PointControl>();
-                    
+
                     if (curPoint.IsEmpty() && curPoint.IsGreen)
                     {
                         curPoint.SetSelect(true);

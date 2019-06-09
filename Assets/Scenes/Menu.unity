@@ -9074,7 +9074,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "Superior Tower Defence\n\uFF08V1.0.1\uFF09"
+  m_Text: Superior Tower Defence
 --- !u!222 &1971383184
 CanvasRenderer:
   m_ObjectHideFlags: 0

@@ -83,6 +83,20 @@ public class GameControl : MonoBehaviour
             FullScreenToggle.isOn = Screen.fullScreen;
         }
     }
+    private void Update()
+    {
+        if (Input.GetKeyDown(KeyCode.P) && !StopUI.activeInHierarchy)
+        {
+            if (Time.timeScale == 0)
+            {
+                Time.timeScale = GameSpeed;
+            }
+            else
+            {
+                Time.timeScale = 0;
+            }
+        }
+    }
     public void LoadLevel(int x)
     {
         Time.timeScale = 1;
