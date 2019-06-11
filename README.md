@@ -1,7 +1,7 @@
 # Superior-Tower-Defence
 项目主页：https://fragrant111.github.io/Superior-Tower-Defence.com/
 
-下载打包完成的项目：
+下载打包完成的项目（当前已发布版本为V1.0.1）：
 <a href="https://github.com/Hukeqing/Superior-Tower-Defence/releases/download/V1.0.1/Superior.Tower.Defence.rar" target="_blank">
     下载链接
 </a>
@@ -73,13 +73,13 @@ Superior-Tower-Defence游戏源码全部公开，包括所有的模型、音频�
 原版名称 | Superior-Tower-Defence |
 游戏类型 | 休闲娱乐、塔防 |
 游戏平台 | PC |
-系统要求 | WindowsXP及以上版本，可使用源码自行编译生成Linux、MacOS版本 |
+系统要求 | WindowsXP及以上版本，可使用源码自行编译生成Linux、MacOS、ps4等多种版本 |
 地区     | 中国 |
 开发者   | Mauve、七分甜不加冰 |
 发行日期 | 2019年5月10日 |
 玩家人数 | 单人 |
 游戏画面 | 3D |
-游戏引擎 | Unity3D |
+游戏引擎 | Unity3D，版本：2018.3.5f1 |
 游戏大小 | 约172MB |
 
 ### 游戏玩法
@@ -104,6 +104,12 @@ Superior-Tower-Defence游戏源码全部公开，包括所有的模型、音频�
 
 ### 更新日志
 （以下内容中，版本号小于 1.0.0 的均为测试版本内更新内容）
+
+#### 更新内容：（V1.0.1）**未发布**
+
+    增加主页面常驻鬼火
+    调节部分色调
+    降低游戏难度
 
 #### 更新内容：（V1.0.1）
 
