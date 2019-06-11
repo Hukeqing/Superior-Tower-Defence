@@ -65491,6 +65491,13 @@ MonoBehaviour:
     Enemys:
     - BornPoint: 0
       Enemys:
+      - inerval: 1
+        type: 0
+        Number: 1
+  - WaveBeforeTime: 10
+    Enemys:
+    - BornPoint: 0
+      Enemys:
       - inerval: 3
         type: 0
         Number: 5
@@ -65894,6 +65901,8 @@ MonoBehaviour:
   GameHard: {fileID: 447549693}
   HardMode: {fileID: 708195568}
   GameHardFront: {fileID: 527553884}
+  HelpCanvas: {fileID: 0}
+  MenuCanvas: {fileID: 0}
 --- !u!114 &1595975262
 MonoBehaviour:
   m_ObjectHideFlags: 0

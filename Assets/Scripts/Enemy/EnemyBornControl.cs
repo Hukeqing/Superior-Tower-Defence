@@ -70,7 +70,7 @@ public class EnemyBornControl : MonoBehaviour
             text.text = "第" + curRound +"/" + Wave.Length + "波";
             SC.SiriSound("第" + curRound + "波");
             AT.SetTrigger("Round");
-            if (curRound == 10)
+            if (curRound == 12)
             {
                 CorForRandomEnemy = StartCoroutine(BornRandomEnemy());
             }
@@ -92,7 +92,7 @@ public class EnemyBornControl : MonoBehaviour
 
     private IEnumerator BornRandomEnemy()
     {
-        float waitTime = Random.Range(1f, Wave.Length + 2 - curRound);
+        float waitTime = Random.Range(1f, Wave.Length + 5 - curRound);
         yield return new WaitForSeconds(waitTime);
         GameObject newBorn = Instantiate(RandomBorn, new Vector3(Random.Range(-15, 15), 1, Random.Range(-15, 15)), transform.rotation);
         newBorn.GetComponent<RandomEnemy>().AddGameObject(EnemyList);

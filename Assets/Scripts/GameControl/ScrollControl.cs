@@ -10,11 +10,13 @@ public class ScrollControl : MonoBehaviour
     public Scrollbar Sb;
 
     public GameControl Main;
-    private const int V = 35;
+    private const int V = 60;
     
     public void SetString(string s)
     {
         T.text = s.Replace("\\n", "\n");
+        T.GetComponent<RectTransform>().rect.Set(0, 0, T.GetComponent<RectTransform>().rect.width, T.GetComponent<RectTransform>().rect.height);
+        Debug.Log(T.GetComponent<RectTransform>().rect.xMin);
         int l = V;
         for (int i = 0; i < T.text.Length; i++)
         {
