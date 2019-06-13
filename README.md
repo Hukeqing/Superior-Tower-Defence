@@ -9,10 +9,14 @@
 *本项目使用unity引擎，版本为2018.3.5f1*
 
 **觉得不错？不如star、watch、fork三连**
+
 **如果可以的话，我还想求一个fo，QWQ**
+
 **欢迎Issues和Pull request给我，尽力当天回复**
+
 **如果需要更多帮助的话，可以mailto:keqing.hu@icloud.com**
-**个人Twitter<a href="https://twitter.com/realMauve"><img style="border-width:0" src="https://pbs.twimg.com/profile_images/1139084288006037504/_JANsYyb_normal.png" />!@realMauve</a>**
+
+**个人Twitter<a href="https://twitter.com/realMauve"><img style="border-width:0; width: 50pt; height: 50pt;" src="https://pbs.twimg.com/profile_images/1139084288006037504/_JANsYyb_normal.png" />@realMauve</a>**
 
 ## Copyleft (Ɔ) 2019.Mauve 版权没有，翻版不究。 但请协助改进本作品。 遵循[CC BY-NC-SA知识协议](http://creativecommons.org/licenses/by-nc-sa/4.0/)授权使用。
 
