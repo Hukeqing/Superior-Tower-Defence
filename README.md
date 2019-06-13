@@ -9,7 +9,7 @@
 *本项目使用unity引擎，版本为2018.3.5f1*
 
 > **觉得不错？不如star、watch、fork三连**<br>
-> **如果可以的话，我还想求一个fo，QWQ**<br>
+> **如果可以的话，我还想求一个follow，QWQ**<br>
 > **欢迎Issues和Pull request给我，尽力当天回复**
 > **如果需要更多帮助的话，可以mailto:keqing.hu@icloud.com**<br>
 > Twitter<a href="https://twitter.com/realMauve"><img style="border-width:0; width: 25pt; height: 25pt;" src="https://pbs.twimg.com/profile_images/1139084288006037504/_JANsYyb_normal.png" />@realMauve</a><br>
