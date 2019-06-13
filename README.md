@@ -8,6 +8,11 @@
 
 *本项目使用unity引擎，版本为2018.3.5f1*
 
+**觉得不错，不如star、watch、fork三连？**
+**如果可以的话，我还想求一个fo，QWQ**
+**欢迎Issues和Pull request给我，尽量当天回复**
+**如果有**
+
 ## Copyleft (Ɔ) 2019.Mauve 版权没有，翻版不究。 但请协助改进本作品。 遵循[CC BY-NC-SA知识协议](http://creativecommons.org/licenses/by-nc-sa/4.0/)授权使用。
 
 ## 开源协议
@@ -55,7 +60,7 @@ Superior-Tower-Defence游戏源码全部公开，包括所有的模型、音频�
 
 [Mauve](https://hukeqing.github.io/Keqing.hu.com/index.html)
 
-七分甜不加冰
+Fragrant
 
 ### **特别鸣谢**
 
@@ -105,7 +110,7 @@ Superior-Tower-Defence游戏源码全部公开，包括所有的模型、音频�
 ### 更新日志
 （以下内容中，版本号小于 1.0.0 的均为测试版本内更新内容）
 
-#### 更新内容：（V1.0.1）**未发布**
+#### 更新内容：（V1.0.2）**未发布**
 
     增加主页面常驻鬼火
     调节部分色调
