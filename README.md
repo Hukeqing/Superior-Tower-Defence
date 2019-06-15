@@ -4,8 +4,13 @@
 源码链接：https://github.com/Hukeqing/Superior-Tower-Defence/
 
 下载打包完成的项目（当前已发布版本为V1.0.1）：
+
 <a href="https://github.com/Hukeqing/Superior-Tower-Defence/releases/download/V1.0.1/Superior.Tower.Defence.rar" target="_blank">
-    下载链接
+    下载链接1（版本V1.0.1）——GitHub release
+</a>
+
+<a href="https://pan.baidu.com/s/1W6vczVkJXRtvJoq6Q2uDsQ">
+    下载链接2（版本V1.0.1）——百度网盘，密码：c16i
 </a>
 
 *本项目使用unity引擎，版本为2018.3.5f1*
