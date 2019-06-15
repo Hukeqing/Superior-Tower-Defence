@@ -7,8 +7,7 @@
 
 <a href="https://github.com/Hukeqing/Superior-Tower-Defence/releases/download/V1.0.1/Superior.Tower.Defence.rar" target="_blank">
     下载链接1（版本V1.0.1）——GitHub release
-</a>
-
+</a><br>
 <a href="https://pan.baidu.com/s/1W6vczVkJXRtvJoq6Q2uDsQ">
     下载链接2（版本V1.0.1）——百度网盘，密码：c16i
 </a>
