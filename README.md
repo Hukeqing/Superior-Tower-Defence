@@ -21,7 +21,7 @@
 > **如果可以的话，我还想求一个follow，QWQ**<br>
 > **欢迎Issues和Pull request给我，尽力当天回复**
 > **如果需要更多帮助的话，可以mailto:keqing.hu@icloud.com**<br>
-> Twitter<a href="https://twitter.com/realMauve"><img style="border-width:0; width: 25pt; height: 25pt;" src="https://pbs.twimg.com/profile_images/1139084288006037504/_JANsYyb_normal.png" />@realMauve</a><br>
+> Twitter<a href="https://twitter.com/realMauve"><img style="border-width:0; width: 25pt; height: 25pt;" src="https://pbs.twimg.com/profile_images/1140617135003058176/AHyW1dW__normal.png" />@realMauve</a><br>
 > GitHub<a href="https://github.com/Hukeqing"><img style="border-width:0; width: 25pt; height: 25pt;" src="https://avatars2.githubusercontent.com/u/47495915?s=40&v=4" />@Hukeqing</a>
 
 ## Copyleft (Ɔ) 2019.Mauve 版权没有，翻版不究。 但请协助改进本作品。 遵循[CC BY-NC-SA知识协议](http://creativecommons.org/licenses/by-nc-sa/4.0/)授权使用。
