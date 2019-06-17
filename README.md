@@ -17,8 +17,6 @@
 
 *本项目使用unity引擎，版本为2018.3.5f1*
 
-@[toc]
-
 > **觉得不错？不如star、watch、fork三连**<br>
 > **如果可以的话，我还想求一个follow，QWQ**<br>
 > **欢迎Issues和Pull request给我，尽力当天回复**
