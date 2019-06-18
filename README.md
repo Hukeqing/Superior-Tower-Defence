@@ -20,7 +20,7 @@
 > **觉得不错？不如star、watch、fork三连**<br>
 > **如果可以的话，我还想求一个follow，QWQ**<br>
 > **欢迎Issues和Pull request给我，尽力当天回复**
-> **如果需要更多帮助的话，可以mailto:keqing.hu@icloud.com**<br>
+> **如果需要更多帮助的话，可以发送邮件给我:keqing.hu@icloud.com**<br>
 > Twitter<a href="https://twitter.com/realMauve"><img style="border-width:0; width: 25pt; height: 25pt;" src="https://pbs.twimg.com/profile_images/1140617135003058176/AHyW1dW__normal.png" />@realMauve</a><br>
 > GitHub<a href="https://github.com/Hukeqing"><img style="border-width:0; width: 25pt; height: 25pt;" src="https://avatars2.githubusercontent.com/u/47495915?s=40&v=4" />@Hukeqing</a>
 
