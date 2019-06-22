@@ -84,7 +84,7 @@ Fragrant
 原版名称 | Superior-Tower-Defence |
 游戏类型 | 休闲娱乐、塔防 |
 游戏平台 | PC |
-系统要求 | WindowsXP及以上版本，可使用源码自行编译生成Linux、MacOS、ps4等多种版本 |
+系统要求 | WindowsXP及以上版本，可使用源码自行编译生成Linux、MacOS等多种版本 |
 地区     | 中国 |
 开发者   | Mauve、Frangrant |
 发行日期 | 2019年5月10日 |
