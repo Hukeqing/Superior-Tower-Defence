@@ -16,7 +16,7 @@ public class ScrollControl : MonoBehaviour
     {
         T.text = s.Replace("\\n", "\n");
         T.GetComponent<RectTransform>().rect.Set(0, 0, T.GetComponent<RectTransform>().rect.width, T.GetComponent<RectTransform>().rect.height);
-        Debug.Log(T.GetComponent<RectTransform>().rect.xMin);
+        // Debug.Log(T.GetComponent<RectTransform>().rect.xMin);
         int l = V;
         for (int i = 0; i < T.text.Length; i++)
         {

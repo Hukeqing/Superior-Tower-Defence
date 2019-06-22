@@ -88,7 +88,7 @@ public class EnemyMove : MonoBehaviour
     }
     public void Des()
     {
-        if (AS)
+        if (AS && !AS.isPlaying)
         {
             AS.Play();
         }

@@ -13,8 +13,13 @@ public class Unit : MonoBehaviour
     private Animator animator;
     public bool IsDie { get; private set; }
 
-    private void Awake()
+    private void Start()
     {
+        if(gameObject.layer == 13)
+        {
+            EnemyBornControl EB = GameObject.Find("GameManage").GetComponent<EnemyBornControl>();
+            maxHealth = (int)Mathf.Ceil((float)EB.curRound / EB.Wave.Length * 2 * maxHealth);
+        }
         curHealth = maxHealth;
         HealthSlider.value = 1;
         HealthSlider.gameObject.SetActive(false);

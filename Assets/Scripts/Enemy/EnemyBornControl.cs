@@ -17,13 +17,14 @@ public class EnemyBornControl : MonoBehaviour
 
     public GameObject RandomBorn;
 
+    public int curRound { get; private set; }
+
     private Coroutine Cor;
     private Coroutine CorForRandomEnemy;
     private PointControl GD;
     private bool isEnd = false;
     private AudioSource AS;
     private Animator AT;
-    private int curRound;
 
     private float GameHard;
 
@@ -38,21 +39,22 @@ public class EnemyBornControl : MonoBehaviour
     }
     public void GameEnd() => StopAllCoroutines();
     public void ChangeGameHard(float Number) => GameHard = Number;
-    private void Update()
+    IEnumerator JudgeEnemy()
     {
-        if (!isEnd)
+        while (true)
         {
-            return;
-        }
-        Collider[] hitcollider = Physics.OverlapSphere(transform.position, 50, 1 << 13);
-        if (hitcollider.Length == 0)
-        {
-            GameObject.Find("GameManage").GetComponent<GameDate>().Win();
+            yield return new WaitForSeconds(0.1f);
+            Collider[] hitcollider = Physics.OverlapSphere(transform.position, 50, 1 << 13);
+            if (hitcollider.Length == 0)
+            {
+                GameObject.Find("GameManage").GetComponent<GameDate>().Win();
+                break;
+            }
         }
     }
     IEnumerator BornEnemy()
     {
-        SC.Suggest("敌人将在"+GameStartTime+"秒后到达右下角！");
+        SC.Suggest("敌人将在" + GameStartTime + "秒后到达右下角！");
         yield return new WaitForSeconds(5);
         SC.Suggest("游戏难度将在10秒之后锁定");
         yield return new WaitForSeconds(10);
@@ -67,7 +69,7 @@ public class EnemyBornControl : MonoBehaviour
         {
             yield return new WaitForSeconds(item.WaveBeforeTime);
             curRound++;
-            text.text = "第" + curRound +"/" + Wave.Length + "波";
+            text.text = "第" + curRound + "/" + Wave.Length + "波";
             SC.SiriSound("第" + curRound + "波");
             AT.SetTrigger("Round");
             if (curRound == 12)
@@ -88,8 +90,8 @@ public class EnemyBornControl : MonoBehaviour
             }
         }
         isEnd = true;
+        StartCoroutine(JudgeEnemy());
     }
-
     private IEnumerator BornRandomEnemy()
     {
         float waitTime = Random.Range(1f, Wave.Length + 5 - curRound);

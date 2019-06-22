@@ -1,15 +1,15 @@
 # Superior-Tower-Defence
 *当前源码版本：V1.0.2*
-*当前游戏版本：V1.0.1*
+*当前游戏版本：V1.0.2*
 
 项目主页：https://fragrant111.github.io/Superior-Tower-Defence.com/
 
 源码链接：https://github.com/Hukeqing/Superior-Tower-Defence/
 
-下载打包完成的项目（当前已发布版本为V1.0.1）：
+下载打包完成的项目（当前已发布版本为V1.0.2）：
 
-<a href="https://github.com/Hukeqing/Superior-Tower-Defence/releases/download/V1.0.1/Superior.Tower.Defence.rar" target="_blank">
-    下载链接1（版本V1.0.1）——GitHub release
+<a href="https://github.com/Hukeqing/Superior-Tower-Defence/releases/download/V1.0.2/Superior.Tower.Defence.rar" target="_blank">
+    下载链接1（版本V1.0.2）——GitHub release
 </a><br>
 <a href="https://pan.baidu.com/s/1W6vczVkJXRtvJoq6Q2uDsQ">
     下载链接2（版本V1.0.1）——百度网盘
@@ -119,13 +119,13 @@ Fragrant
 ### 未来的更新可能
 
  - [x] 美化主界面，为主界面添加音效（已在V1.0.1、V1.0.2中更新）
- - [ ] 降低游戏难度，特别是前期难度（V1.0.2中有更新但未完成）
+ - [x] 降低游戏难度，特别是前期难度（已在V1.0.2中更新）
  - [ ] 增加敌人的攻击音效
  - [ ] 更新敌人的模型
  - [ ] 修改敌人的攻击动画
  - [ ] 将最终的游戏文件合并成单个exe文件
 
-#### 更新内容：（V1.0.2）**未发布**
+#### 更新内容：（V1.0.2)
 
     增加主页面常驻鬼火
     调节部分色调
