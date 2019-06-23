@@ -12,7 +12,7 @@
     下载链接1（版本V1.0.2）——GitHub release
 </a><br>
 <a href="https://pan.baidu.com/s/1EZ52q8mAkVxHFVC5Z_15mA">
-    下载链接2（版本V1.0.1）——百度网盘
+    下载链接2（版本V1.0.2）——百度网盘
 </a>密码：ytug<br>
 
 *本项目使用unity引擎，版本为2018.3.5f1*
