@@ -11,9 +11,9 @@
 <a href="https://github.com/Hukeqing/Superior-Tower-Defence/releases/download/V1.0.2/Superior.Tower.Defence.rar" target="_blank">
     下载链接1（版本V1.0.2）——GitHub release
 </a><br>
-<a href="https://pan.baidu.com/s/1W6vczVkJXRtvJoq6Q2uDsQ">
-    下载链接2（版本V1.0.1）——百度网盘
-</a>密码：c16i<br>
+<a href="https://pan.baidu.com/s/1EZ52q8mAkVxHFVC5Z_15mA">
+    下载链接2（版本V1.0.2）——百度网盘
+</a>密码：ytug<br>
 
 *本项目使用unity引擎，版本为2018.3.5f1*
 
@@ -84,14 +84,14 @@ Fragrant
 原版名称 | Superior-Tower-Defence |
 游戏类型 | 休闲娱乐、塔防 |
 游戏平台 | PC |
-系统要求 | WindowsXP及以上版本，可使用源码自行编译生成Linux、MacOS、ps4等多种版本 |
+系统要求 | WindowsXP及以上版本，可使用源码自行编译生成Linux、MacOS等多种版本 |
 地区     | 中国 |
 开发者   | Mauve、Frangrant |
 发行日期 | 2019年5月10日 |
 玩家人数 | 单人 |
 游戏画面 | 3D |
 游戏引擎 | Unity3D，版本：2018.3.5f1 |
-游戏大小 | 约172MB |
+游戏大小 | 约176MB |
 
 ### 游戏玩法
 
