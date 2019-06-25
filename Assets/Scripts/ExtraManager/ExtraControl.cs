@@ -17,6 +17,8 @@ public class ExtraObject
     public ExtraClass Extramode;
     public int layer = 13;
     public int curCost { get; set; }
+    public float CoolDown;
+    public ExtraUIControl EUC;
 }
 
 public class ExtraControl : MonoBehaviour
@@ -35,9 +37,15 @@ public class ExtraControl : MonoBehaviour
 
     public void Use(int mode)
     {
+        if (!Extralist[mode].EUC.isCoolDownOver)
+        {
+            SC.Suggest("还没有冷却好呢！");
+            return;
+        }
         if (CC.money >= Extralist[mode].curCost)
         {
             CC.UseMoney(Extralist[mode].curCost);
+            Extralist[mode].EUC.SetCoolDown(Extralist[mode].CoolDown);
             Extralist[mode].curCost += Extralist[mode].Increase;
             Collider[] hitColliders = Physics.OverlapSphere(Vector3.zero, 50, 1 << Extralist[mode].layer);
             Vector3 newVector;

@@ -26,7 +26,7 @@ public class DaodanControl : MonoBehaviour
     private void Expl()
     {
         GameObject newEffect = Instantiate(Effect, transform.position, transform.rotation);
-        Destroy(newEffect, 0.5f);
+        Destroy(newEffect, 1f);
         Collider[] hitColliders = Physics.OverlapSphere(transform.position, DamageRange, 1 << 13);
         for (int i = 0; i < hitColliders.Length; i++)
         {
