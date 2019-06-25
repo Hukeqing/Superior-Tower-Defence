@@ -1,5 +1,5 @@
 # Superior-Tower-Defence
-*当前源码版本：V1.0.2*
+*当前源码版本：V1.0.3f1*
 *当前游戏版本：V1.0.2*
 
 项目主页：https://fragrant111.github.io/Superior-Tower-Defence.com/
@@ -19,23 +19,20 @@
 
 > **觉得不错？不如star、watch、fork三连**<br>
 > **如果可以的话，我还想求一个follow，QWQ**<br>
-> **欢迎Issues和Pull request给我，尽力当天回复**
+> **欢迎Issues和Pull request给我，尽力当天回复**<br>
 > **如果需要更多帮助的话，可以发送邮件给我:keqing.hu@icloud.com**<br>
 > Twitter<a href="https://twitter.com/realMauve"><img style="border-width:0; width: 25pt; height: 25pt;" src="https://pbs.twimg.com/profile_images/1140617135003058176/AHyW1dW__normal.png" />@realMauve</a><br>
 > GitHub<a href="https://github.com/Hukeqing"><img style="border-width:0; width: 25pt; height: 25pt;" src="https://avatars2.githubusercontent.com/u/47495915?s=40&v=4" />@Hukeqing</a>
 
-## Copyleft (Ɔ) 2019.Mauve 版权没有，翻版不究。 但请协助改进本作品。 遵循[CC BY-NC-SA知识协议](http://creativecommons.org/licenses/by-nc-sa/4.0/)授权使用。
+## Copyleft (Ɔ) 2019.Mauve 版权没有，翻版不究。 但请协助改进本作品。 遵循[CC BY-SA知识协议](https://creativecommons.org/licenses/by-sa/4.0/)授权使用。
 
 ## 开源协议
 > We had to be rescued from our folly by a rebel alliance of obsessive geeks and creative misfits—who then proceeded to show us that professionalism and dedication really meant what we had been doing before we succumbed to the mundane persuasions of "sound business practices".
 > (只有痴迷的“黑客”和具有创造力的怪人结成的反叛联盟才能把我们从愚蠢中拯救出来——他们接着教导我们，真正的专业和奉献精神， 正是我们在屈服于世俗观念的"合理商业做法"之所作所为。)
 > -- The Art of Unix Programming
 
-### 游戏源码公开
-Superior-Tower-Defence游戏源码全部公开，包括所有的模型、音频、贴图、脚本、动画、场景以及其他导入的CC授权的作品
-
-### 开源授权(CC BY-NC-SA)
-<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="知识共享许可协议" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/InteractiveResource" property="dct:title" rel="dct:type">Superior Tower Defence</span> 由 <a xmlns:cc="http://creativecommons.org/ns#" href="https://github.com/Hukeqing/Superior-Tower-Defence" property="cc:attributionName" rel="cc:attributionURL">Mauve</a> 采用 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">知识共享 署名-非商业性使用-相同方式共享 4.0 国际 许可协议</a>进行许可。<br />本许可协议授权之外的使用权限可以从 <a xmlns:cc="http://creativecommons.org/ns#" href="https://github.com/Hukeqing/Superior-Tower-Defence/issues" rel="cc:morePermissions">https://github.com/Hukeqing/Superior-Tower-Defence/issues</a> 处获得。
+### 开源授权(CC BY-SA)
+<a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/"><img alt="知识共享许可协议" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/InteractiveResource" property="dct:title" rel="dct:type">Superior Tower Defence</span> 由 <a xmlns:cc="http://creativecommons.org/ns#" href="https://github.com/Hukeqing/Superior-Tower-Defence" property="cc:attributionName" rel="cc:attributionURL">Mauve</a> 采用 <a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/">知识共享 署名-相同方式共享 4.0 国际 许可协议</a>进行许可。<br />本许可协议授权之外的使用权限可以从 <a xmlns:cc="http://creativecommons.org/ns#" href="https://github.com/Hukeqing/Superior-Tower-Defence/issues" rel="cc:morePermissions">https://github.com/Hukeqing/Superior-Tower-Defence/issues</a> 处获得。
 
 **协议摘要如下：**
 
@@ -51,8 +48,6 @@ Superior-Tower-Defence游戏源码全部公开，包括所有的模型、音频�
 #### Under the following terms:(惟须遵守下列条件：)
 > ##### Attribution(署名)
 > > You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.(您必须给出适当的署名，提供指向本许可协议的链接，同时标明是否（对原始作品）作了修改。您可以用任何合理的方式来署名，但是不得以任何方式暗示许可人为您或您的使用背书。 )
-> ##### NonCommercial(非商业性使用)
-> >  You may not use the material for commercial purposes.(您不得将本作品用于商业目的。 )
 > ##### ShareAlike(相同方式共享)
 > > If you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original.(如果您再混合、转换或者基于本作品进行创作，您必须基于与原先许可协议相同的许可协议 分发您贡献的作品。 )
 > ##### No additional restrictions(没有附加限制)
@@ -84,10 +79,11 @@ Fragrant
 原版名称 | Superior-Tower-Defence |
 游戏类型 | 休闲娱乐、塔防 |
 游戏平台 | PC |
-系统要求 | WindowsXP及以上版本，可使用源码自行编译生成Linux、MacOS等多种版本 |
+系统要求 | WindowsXP及以上版本<br>macOS等其他的系统可以自行Build |
 地区     | 中国 |
-开发者   | Mauve、Frangrant |
+开发者   | Mauve |
 发行日期 | 2019年5月10日 |
+最新版本 | V1.0.2(2019.6.22发布) |
 玩家人数 | 单人 |
 游戏画面 | 3D |
 游戏引擎 | Unity3D，版本：2018.3.5f1 |
@@ -114,7 +110,8 @@ Fragrant
 抵御住所有的敌人的进攻，直到在最后一波的进攻中存活并且在某个时刻地图上不存在敌人
 
 ## 更新日志
-（以下内容中，版本号小于 1.0.0 的均为测试版本内更新内容）
+*以下内容中，版本号小于 1.0.0 的均为测试版本内更新内容*
+*版本号中带有f的版本均为更新编号，属于暂存的更新，不发布*
 
 ### 未来的更新可能
 
@@ -124,6 +121,11 @@ Fragrant
  - [ ] 更新敌人的模型
  - [ ] 修改敌人的攻击动画
  - [ ] 将最终的游戏文件合并成单个exe文件
+
+#### 更新内容：（V1.0.2f1）
+
+    为额外武器添加CD(CoolDown)
+    加快的额外武器——导弹的打击速度
 
 #### 更新内容：（V1.0.2)
 
