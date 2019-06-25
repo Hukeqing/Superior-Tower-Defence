@@ -1,6 +1,7 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.UI;
 
 [System.Serializable]
 public enum ExtraClass
@@ -19,6 +20,7 @@ public class ExtraObject
     public int curCost { get; set; }
     public float CoolDown;
     public ExtraUIControl EUC;
+    public Text CostText;
 }
 
 public class ExtraControl : MonoBehaviour
@@ -32,6 +34,7 @@ public class ExtraControl : MonoBehaviour
         foreach (var item in Extralist)
         {
             item.curCost = item.Cost;
+            item.CostText.text = "$" + item.curCost.ToString();
         }
     }
 
@@ -47,6 +50,7 @@ public class ExtraControl : MonoBehaviour
             CC.UseMoney(Extralist[mode].curCost);
             Extralist[mode].EUC.SetCoolDown(Extralist[mode].CoolDown);
             Extralist[mode].curCost += Extralist[mode].Increase;
+            Extralist[mode].CostText.text = "$" + Extralist[mode].curCost.ToString();
             Collider[] hitColliders = Physics.OverlapSphere(Vector3.zero, 50, 1 << Extralist[mode].layer);
             Vector3 newVector;
             if (hitColliders.Length > 0)

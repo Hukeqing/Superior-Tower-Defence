@@ -4,11 +4,13 @@ using UnityEngine;
 
 public class EnemyDoctor : MonoBehaviour
 {
-    public float CureWaitTime;                      // 两次治疗间隔
+    [Tooltip("两次治疗间隔")]
+    public float CureWaitTime;
     public int CureDamage;                          // 单次治疗量
     public float CureRange;                         // 治疗范围
     public GameObject CureEffect;                   // 治疗特效
-    public float Degenerate = 0.5f;                 // 治疗衰减时间
+    [Tooltip("治疗衰减时间")]
+    public float Degenerate = 0.5f;
 
     private float NextCure;
     private EnemyMove EM;
