@@ -832,7 +832,7 @@ MonoBehaviour:
   ProductWaitTime: 5
   ProductMoney: 10
   Head: {fileID: 3370023407559474285}
-  Degenerate: 0.5
+  Degenerate: 0.3
 --- !u!135 &5916373060523700464
 SphereCollider:
   m_ObjectHideFlags: 0
