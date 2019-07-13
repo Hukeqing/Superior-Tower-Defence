@@ -1,15 +1,15 @@
 # Superior-Tower-Defence
-*当前源码版本：V1.0.2f1*
-*当前游戏版本：V1.0.2*
+*当前源码版本：V1.1.0*
+*当前游戏版本：V1.1.0*
 
 项目主页：https://fragrant111.github.io/Superior-Tower-Defence.com/
 
 源码链接：https://github.com/Hukeqing/Superior-Tower-Defence/
 
-下载打包完成的项目（当前已发布版本为V1.0.2）：
+下载打包完成的项目（当前已发布版本为V1.1.0）：
 
-<a href="https://github.com/Hukeqing/Superior-Tower-Defence/releases/download/V1.0.2/Superior.Tower.Defence.rar" target="_blank">
-    下载链接1（版本V1.0.2）——GitHub release
+<a href="https://github.com/Hukeqing/Superior-Tower-Defence/releases/download/V1.1.0/Superior.Tower.Defence.rar" target="_blank">
+    下载链接1（版本V1.1.0）——GitHub release
 </a><br>
 <a href="https://pan.baidu.com/s/1EZ52q8mAkVxHFVC5Z_15mA">
     下载链接2（版本V1.0.2）——百度网盘
