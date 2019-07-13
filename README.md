@@ -1,5 +1,5 @@
 # Superior-Tower-Defence
-*当前源码版本：V1.0.3f1*
+*当前源码版本：V1.0.2f1*
 *当前游戏版本：V1.0.2*
 
 项目主页：https://fragrant111.github.io/Superior-Tower-Defence.com/
@@ -202,3 +202,6 @@ Fragrant
     增加游戏内调整游戏分辨率、全屏状态、帧频等功能
     优化部分UI
     更换了彩蛋的音频
+
+# 彩蛋触发方式
+暂停时点击背景图片上的‘auve’字样，然后输掉那场游戏即可触发彩蛋！
